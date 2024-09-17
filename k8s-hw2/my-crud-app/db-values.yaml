@@ -1,0 +1,4 @@
+postgresql:
+  postgresqlUsername: user
+  postgresqlPassword: password
+  postgresqlDatabase: users_db
